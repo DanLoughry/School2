@@ -26,5 +26,9 @@ namespace School2.Controllers
 
 			return View();
 		}
+		public ActionResult Major()		{
+			return View();
+		}
+
 	}
 }
